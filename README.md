@@ -10,4 +10,14 @@ This dashboard not only simplifies the analysis process but also brings valuable
 📌 Skills applied: hashtag#Excel hashtag#DataAnalysis hashtag#Visualization hashtag#DataCleaning
 
 
+Questions
+Compare the sales and orders using single charts
+Which month got the highest sales and orders?
+Who purchased more men or women in 2022?
+What are different order status in 2022?
+List top 10 states contributing to the sales?
+Relations between age and gender based on numbers of orders?
+Which channel is contributing to maximum sales?
+Highest selling category?
+
 
