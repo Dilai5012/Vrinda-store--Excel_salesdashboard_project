@@ -11,6 +11,7 @@ This dashboard not only simplifies the analysis process but also brings valuable
 
 
 Questions
+
 Compare the sales and orders using single charts
 Which month got the highest sales and orders?
 Who purchased more men or women in 2022?
